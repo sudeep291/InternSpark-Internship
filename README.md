@@ -8,12 +8,10 @@ This repository contains all tasks completed during my InternSpark Data Analytic
 - NumPy
 - SQL
 - Matplotlib
-- Jupyter Notebook
+- Google Colab
 
 ## Tasks
 1. Customer Behavior Analysis
 2. Sales Performance Analysis
 3. Website Traffic Analysis
 
-## Author
-Sudeep S
