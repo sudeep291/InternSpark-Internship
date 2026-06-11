@@ -5,8 +5,6 @@ This repository contains all tasks completed during my InternSpark Data Analytic
 ## Tools Used
 - Python
 - Pandas
-- NumPy
-- SQL
 - Matplotlib
 - Google Colab
 
